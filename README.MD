@@ -1,5 +1,9 @@
 # Curso de JavaScript
 
+Os textos e exemplos a seguir são inspirados em:
+https://javascript.info/
+https://github.com/braziljs/eloquente-javascript/tree/master
+
 ## Introdução
 * Uma Introdução ao JavaScript
 * Manuais e especificações
